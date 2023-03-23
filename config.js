@@ -53,23 +53,23 @@ global.snh = 'https://nhentai.net/g/365296/'
 //mwehehe:v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
+global.pdana = '081327748566'
 global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
+global.pgopay = '081327748566'
+global.ppulsa = '081327748566'
+global.ppulsa2 = '081327748566'
 global.psaweria = 'https://saweria.co.id/oktakc'
 global.fetch = (await import('node-fetch'))
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
-global.namebot = 'YaeMiko'
-global.nameown = 'Okta'
+global.nomorbot = '6285158448064'
+global.nomorown = '6281327748566'
+global.namebot = 'Nyenye'
+global.nameown = 'Donyy'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta🗿!', true]
+  ['6281327748566', 'Donyy', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
